@@ -145,18 +145,18 @@ function Menu({
               Created by
               {' '}
               <a
-                href="https://github.com/pydigger"
+                href="https://github.com/devengn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Masroor Ahmad
+                Daniel
               </a>
             </div>
             <div>
               This project is
               {' '}
               <a
-                href="https://github.com/pydigger/tictactoe"
+                href="https://github.com/devengn/tictactoe"
                 target="_blank"
                 rel="noopener noreferrer"
               >
